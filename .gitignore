@@ -1,0 +1,34 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Ignore Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore Cache
+.idea/cache
+.idea/libraries
+
+# Ignore Project specific routing and logs
+/app/build/
+*.log
+
+# Ignore APK and App Bundle files
+*.apk
+*.ap_
+*.aab
