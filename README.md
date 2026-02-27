@@ -28,12 +28,16 @@ An Android Proof-of-Concept custom keyboard designed strictly for demonstrating 
 
 ### Home Screen
 [![Home Screen](screenshots/Keylogger_POC_App_home_screen.jpg)](screenshots/Keylogger_POC_App_home_screen.jpg)
+![Keylogger_POC_App_home_screen](https://github.com/user-attachments/assets/4bdbe408-8b2a-40e7-a415-194139322ae7)
 
 ### Keyboard Settings
 [![Keyboard Settings](screenshots/Keyboard_Settings.jpg)](screenshots/Keyboard_Settings.jpg)
+![Keyboard_Settings](https://github.com/user-attachments/assets/5142d04e-ddfa-4cee-9bc3-f832019bb797)
 
 ### The Custom Keyboard
 [![Keyboard](screenshots/Keyboard.jpg)](screenshots/Keyboard.jpg)
+![Keyboard](https://github.com/user-attachments/assets/079ad80f-a49b-462d-91a3-408348fe2b69)
 
 ### Logcat Output
 [![Logcat Output](screenshots/logcat.jpg)](screenshots/logcat.jpg)
+![logcat](https://github.com/user-attachments/assets/4abb11f8-c245-4bc3-9e4c-19f6f31c5a8c)
