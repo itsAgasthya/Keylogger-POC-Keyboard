@@ -27,13 +27,13 @@ An Android Proof-of-Concept custom keyboard designed strictly for demonstrating 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](https://github.com/user-attachments/assets/4bdbe408-8b2a-40e7-a415-194139322ae7)
+<img src="https://github.com/user-attachments/assets/4bdbe408-8b2a-40e7-a415-194139322ae7" alt="Home Screen" width="50%">
 
 ### Keyboard Settings
-![Keyboard Settings](https://github.com/user-attachments/assets/5142d04e-ddfa-4cee-9bc3-f832019bb797)
+<img src="https://github.com/user-attachments/assets/5142d04e-ddfa-4cee-9bc3-f832019bb797" alt="Keyboard Settings" width="50%">
 
 ### The Custom Keyboard
-![Keyboard](https://github.com/user-attachments/assets/079ad80f-a49b-462d-91a3-408348fe2b69)
+<img src="https://github.com/user-attachments/assets/079ad80f-a49b-462d-91a3-408348fe2b69" alt="Keyboard" width="50%">
 
 ### Logcat Output
 ![Logcat Output](https://github.com/user-attachments/assets/4abb11f8-c245-4bc3-9e4c-19f6f31c5a8c)
