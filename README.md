@@ -27,13 +27,13 @@ An Android Proof-of-Concept custom keyboard designed strictly for demonstrating 
 ## Screenshots
 
 ### Home Screen
-<img src="screenshots/Keylogger_POC_App_home_screen.jpg" width="300" alt="Home Screen" />
+[![Home Screen](screenshots/Keylogger_POC_App_home_screen.jpg)](screenshots/Keylogger_POC_App_home_screen.jpg)
 
 ### Keyboard Settings
-<img src="screenshots/Keyboard_Settings.jpg" width="300" alt="Keyboard Settings" />
+[![Keyboard Settings](screenshots/Keyboard_Settings.jpg)](screenshots/Keyboard_Settings.jpg)
 
 ### The Custom Keyboard
-<img src="screenshots/Keyboard.jpg" width="300" alt="Keyboard" />
+[![Keyboard](screenshots/Keyboard.jpg)](screenshots/Keyboard.jpg)
 
 ### Logcat Output
-<img src="screenshots/logcat.jpg" width="600" alt="Logcat Output" />
+[![Logcat Output](screenshots/logcat.jpg)](screenshots/logcat.jpg)
