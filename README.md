@@ -27,10 +27,10 @@ An Android Proof-of-Concept custom keyboard designed strictly for demonstrating 
 ## Screenshots
 
 ### Home Screen
-<img src="screenshots/Keylogger POC App home screen.jpg" width="300" alt="Home Screen" />
+<img src="screenshots/Keylogger_POC_App_home_screen.jpg" width="300" alt="Home Screen" />
 
 ### Keyboard Settings
-<img src="screenshots/Keyboard Settings.jpg" width="300" alt="Keyboard Settings" />
+<img src="screenshots/Keyboard_Settings.jpg" width="300" alt="Keyboard Settings" />
 
 ### The Custom Keyboard
 <img src="screenshots/Keyboard.jpg" width="300" alt="Keyboard" />
