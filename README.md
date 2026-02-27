@@ -1,6 +1,6 @@
 # Keylogger POC Keyboard
 
-An Android Proof-of-Concept custom keyboard designed strictly for demonstrating the risks of third-party keyboards during mobile penetration testing. All keystrokes are logged locally to Logcat; no data is saved to disk or transmitted over the network.
+An Android Proof-of-Concept custom keyboard designed strictly for demonstrating the risks of third-party keyboards during mobile application penetration testing. All keystrokes are logged locally to Logcat; no data is saved to disk or transmitted over the network.
 
 ## Installation
 
