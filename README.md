@@ -13,10 +13,10 @@ An Android Proof-of-Concept custom keyboard designed strictly for demonstrating 
 1. Open the **Keylogger POC** app from your Android launcher.
 2. Click **"Open Keyboard Settings"**.
 3. Enable the **"Keylogger POC Keyboard"** in the Android system settings. 
-4. Open any application with text input (browser, notes, client app, etc.) and switch your active keyboard to the **"Keylogger POC Keyboard"**.
+4. Open any application with text input and switch your active keyboard to the **"Keylogger POC Keyboard"**.
 5. Connect your device via ADB and run the following command to monitor the keylogger output in real-time:
    ```bash
-   # Windows (PowerShell)
+   # Windows(PowerShell)
    adb logcat | Select-String "PocKeylogger"
    
    # Mac/Linux
